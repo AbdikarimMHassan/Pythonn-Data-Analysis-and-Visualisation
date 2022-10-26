@@ -6,3 +6,6 @@ Data Analysis and Visualisation using: Python, Pandas, Matlab, Tkinter, Jupyter 
 
 
 ![Screenshot 2022-10-27 00 02 01](https://user-images.githubusercontent.com/116522167/198158222-37dd1f95-a952-4761-afb9-8ddd9473210a.png)
+
+
+![Screenshot 2022-10-27 00 02 27](https://user-images.githubusercontent.com/116522167/198158495-493d16a2-b9f4-4fa5-84e7-9d6e0b495d53.png)
