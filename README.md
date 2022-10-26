@@ -57,6 +57,7 @@ results using appropriate representation:
 
 a. Produce the mean, mode and median for the ‘frequency_mhz’
 i. For large_airport
+
 ii. For frequencies more than 100 mhz
 
 4. Produce a suitable graph that display the communication frequencies used by 
